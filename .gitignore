@@ -101,3 +101,6 @@ ENV/
 # swig generated code
 ESL.py
 ESL_wrap.cpp
+
+
+.vscode/
